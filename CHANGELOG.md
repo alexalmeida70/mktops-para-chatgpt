@@ -4,6 +4,12 @@ Este projeto segue [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e
 
 ## [Não lançado]
 
+### Adicionado
+- Registro da confirmação de Alex Almeida de que o autor autorizou uso, adaptação e redistribuição pública, com referência à captura apresentada para uso e adaptação.
+
+### Alterado
+- Documentação de direitos atualizada para distinguir a autorização específica informada da ausência de licença explícita no repositório público de origem. Repositório mantido privado e distribuição v1.0.0 preservada.
+
 ## [1.0.0] - 2026-11-03
 
 ### Adicionado
