@@ -1,6 +1,6 @@
 # MktOps para ChatGPT by Alex Almeida
 
-**Versão 1.0.0 • 03/11/2026 • Pré-lançamento para homologação • Repositório privado**
+**Versão 1.0.0 • 03/11/2026 • Pré-lançamento para homologação • Repositório público**
 
 Adaptação para ChatGPT de 15 agentes especializados em marketing, SEO, mídia paga, conversão e criação de campanhas. Versão desenvolvida por Alex Almeida a partir do Arsenal MktOps.
 
@@ -64,4 +64,4 @@ Alex Almeida confirmou em 03/11/2026 que o autor autorizou **uso, adaptação e 
 
 Não foi identificada licença explícita na árvore pública de origem consultada. A autorização informada é específica e não foi convertida em uma licença aberta geral para terceiros. Os créditos originais foram mantidos. Consulte [ORIGEM-E-DIREITOS.md](ORIGEM-E-DIREITOS.md) e o [registro de proveniência da v1.0.0](PROVENIENCIA.json).
 
-O repositório permanece privado até um pedido expresso de Alex Almeida para alterar a visibilidade. Nenhuma licença sobre conteúdos de terceiros foi adicionada. A tag e o pacote da v1.0.0 preservam a situação documentada no lançamento; atualizações posteriores estão no histórico.
+O repositório foi tornado **público em 03/11/2026**, por autorização expressa de Alex Almeida. Nenhuma licença sobre conteúdos de terceiros foi adicionada. A tag e o pacote da v1.0.0 preservam a situação documentada no lançamento, quando o repositório ainda era privado; atualizações posteriores estão no histórico.

@@ -31,6 +31,6 @@ A imagem foi preservada na pasta local de trabalho e não foi incluída nos arqu
 
 Os créditos e os direitos dos componentes originais permanecem com seus respectivos titulares. Nenhum arquivo LICENSE foi adicionado para conceder direitos sobre materiais de terceiros.
 
-O repositório permanece **privado**. A confirmação do escopo da autorização do autor não constitui uma instrução de Alex Almeida para mudar a visibilidade do repositório; essa alteração depende de um pedido expresso.
+Após a confirmação do escopo da autorização do autor, Alex Almeida solicitou expressamente em **03/11/2026**: “torne o repositório público”. A alteração foi executada e a visibilidade **pública** foi confirmada no GitHub.
 
 Este registro é posterior à distribuição [v1.0.0](https://github.com/alexalmeida70/mktops-para-chatgpt/releases/tag/v1.0.0). A tag, o ZIP e as notas daquele Release permanecem como registro histórico do que era conhecido no momento da publicação. Consulte o [histórico de alterações](CHANGELOG.md) e a [documentação de origem](ORIGEM-E-DIREITOS.md).

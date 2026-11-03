@@ -1,12 +1,12 @@
 # Origem, atribuição e direitos de redistribuição
 
-Verificação documental em **03/11/2026**. Repositório mantido **privado**.
+Verificação documental em **03/11/2026**. Repositório **público**, por autorização expressa de Alex Almeida nessa data.
 
 ## Autorização informada após o lançamento inicial
 
 Alex Almeida confirmou que o autor autorizou **uso, adaptação e redistribuição pública**. Foi apresentada uma captura de WhatsApp que documenta a anuência ao pedido de uso e adaptação para GPT; o escopo de redistribuição pública foi confirmado adicionalmente por Alex Almeida. O [registro de autorização](AUTORIZACAO-DE-USO.md) distingue essas duas fontes e registra a evidência sem publicar a imagem da conversa.
 
-A ausência de licença explícita na árvore pública de origem permanece como fato da verificação inicial. Ela não invalida o registro posterior da autorização específica informada, nem foi substituída por uma licença aberta geral para terceiros. O repositório continua privado até um pedido expresso de Alex Almeida para mudar sua visibilidade.
+A ausência de licença explícita na árvore pública de origem permanece como fato da verificação inicial. Ela não invalida o registro posterior da autorização específica informada, nem foi substituída por uma licença aberta geral para terceiros. Após o registro da autorização, Alex Almeida solicitou expressamente a publicação pública; a mudança de visibilidade foi executada e confirmada no GitHub em 03/11/2026.
 
 ## Evidências disponíveis
 
@@ -36,8 +36,8 @@ Esses registros distinguem o pacote recebido das alterações desta publicação
 
 Os créditos originais de Arsenal MktOps / Studio Artemis e outros componentes são preservados. Não há reivindicação de autoria original por Alex Almeida nem de vínculo oficial com os titulares.
 
-## Condições para publicação pública
+## Publicação pública
 
-O escopo de uso, adaptação e redistribuição pública foi confirmado por Alex Almeida conforme o registro acima. Preservar a atribuição dos componentes originais e a identificação da autoria da adaptação. A mudança de visibilidade ainda depende de um pedido expresso de Alex Almeida.
+O escopo de uso, adaptação e redistribuição pública foi confirmado por Alex Almeida conforme o registro acima. A mudança de visibilidade foi autorizada expressamente por Alex Almeida e executada em 03/11/2026. Preservar a atribuição dos componentes originais e a identificação da autoria da adaptação.
 
 Nenhum arquivo LICENSE foi adicionado para transformar essa autorização específica em uma concessão geral de direitos sobre conteúdos de terceiros. A tag, o ZIP e as notas do Release v1.0.0 permanecem intactos; as atualizações documentais posteriores são registradas no CHANGELOG e no histórico Git.
