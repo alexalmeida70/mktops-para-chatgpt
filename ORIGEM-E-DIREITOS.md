@@ -2,6 +2,12 @@
 
 Verificação documental em **03/11/2026**. Repositório mantido **privado**.
 
+## Autorização informada após o lançamento inicial
+
+Alex Almeida confirmou que o autor autorizou **uso, adaptação e redistribuição pública**. Foi apresentada uma captura de WhatsApp que documenta a anuência ao pedido de uso e adaptação para GPT; o escopo de redistribuição pública foi confirmado adicionalmente por Alex Almeida. O [registro de autorização](AUTORIZACAO-DE-USO.md) distingue essas duas fontes e registra a evidência sem publicar a imagem da conversa.
+
+A ausência de licença explícita na árvore pública de origem permanece como fato da verificação inicial. Ela não invalida o registro posterior da autorização específica informada, nem foi substituída por uma licença aberta geral para terceiros. O repositório continua privado até um pedido expresso de Alex Almeida para mudar sua visibilidade.
+
 ## Evidências disponíveis
 
 - Pacote recebido: `MktOps-para-ChatGPT-by-Alex-Almeida.zip`, com 46 arquivos: quatro documentos na raiz, 15 agentes, três fluxos, 20 referências e quatro scripts.
@@ -9,12 +15,12 @@ Verificação documental em **03/11/2026**. Repositório mantido **privado**.
 - Projeto original: **Arsenal MktOps**; desenvolvimento original: **Studio Artemis**; [repositório de origem](https://github.com/helio-debug/arsenal-mktops).
 - Árvore pública consultada: commit `c03efb44366d607ece69a6b30b01d879add4a3ed`. A API retornou `license: null`; a árvore completa não apresentou arquivos LICENSE, LICENCE, COPYING, NOTICE ou termos equivalentes.
 - O [README público](https://github.com/helio-debug/arsenal-mktops/blob/c03efb44366d607ece69a6b30b01d879add4a3ed/README.md) informa que o repositório contém o código do portal e que o conteúdo de ferramentas, agentes e relatórios é distribuído pelo portal após cadastro. A descrição “open source” não substitui uma concessão de licença explícita para cada componente.
-- Não foram confirmados os termos aceitos no portal, a licença dos downloads ou eventual autorização individual de redistribuição. O portal não pôde ser consultado pela ferramenta de pesquisa nesta execução. A situação permanece pendente, sem conclusão de permissão ou proibição específica.
-- Um script preservado cita o projeto `AgriciDaniel/claude-ads` no User-Agent. A cadeia de origem e a licença de componentes adicionais também precisam ser esclarecidas antes de uma publicação pública.
+- No lançamento da v1.0.0, ainda não havia sido informada uma autorização individual de redistribuição. Esse estado histórico foi atualizado pela confirmação de Alex Almeida registrada acima. Os termos do portal e dos downloads não foram consultados pela ferramenta de pesquisa.
+- Um script preservado cita o projeto `AgriciDaniel/claude-ads` no User-Agent. Essa referência integra a cadeia de origem documentada; os créditos existentes permanecem preservados.
 
 ## O que foi preservado ou modificado
 
-O [registro de proveniência](PROVENIENCIA.json) lista os 46 caminhos recebidos, destinos e hashes SHA-256 antes e depois. **24 arquivos foram preservados byte a byte** e **22 foram modificados ou movidos** nesta preparação.
+O [registro de proveniência](PROVENIENCIA.json) lista os 46 caminhos recebidos, destinos e hashes SHA-256 antes e depois da preparação da **v1.0.0**. Naquela distribuição, **24 arquivos foram preservados byte a byte** e **22 foram modificados ou movidos**. Esse inventário é um registro da versão inicial, e não um manifesto atualizado automaticamente para commits posteriores.
 
 As mudanças desta publicação incluem documentação de versão, créditos, links internos navegáveis, organização das três habilidades em pastas com SKILL.md e frontmatter, portabilidade dos caminhos e correção do exemplo de caminho de geração de imagens. Os quatro scripts mantêm exatamente os bytes recebidos; não foram executados. As instruções especializadas dos agentes e os checklists técnicos foram mantidos.
 
@@ -32,6 +38,6 @@ Os créditos originais de Arsenal MktOps / Studio Artemis e outros componentes s
 
 ## Condições para publicação pública
 
-Antes de alterar a visibilidade, obter e registrar as licenças ou autorizações aplicáveis, verificar as condições do portal e a cadeia de origem, comparar os materiais originais com os modificados, revisar os créditos e apresentar eventuais impedimentos. Solicitar autorização expressa de Alex Almeida para a mudança de visibilidade.
+O escopo de uso, adaptação e redistribuição pública foi confirmado por Alex Almeida conforme o registro acima. Preservar a atribuição dos componentes originais e a identificação da autoria da adaptação. A mudança de visibilidade ainda depende de um pedido expresso de Alex Almeida.
 
-Se a redistribuição não for autorizada, alternativas incluem publicar apenas documentação e instruções de obtenção nos canais oficiais, ou substituir os componentes restritos por material autoral produzido de forma independente. O armazenamento privado não resolve por si só a questão dos direitos. Nenhum arquivo LICENSE foi adicionado para conceder direitos sobre materiais de terceiros.
+Nenhum arquivo LICENSE foi adicionado para transformar essa autorização específica em uma concessão geral de direitos sobre conteúdos de terceiros. A tag, o ZIP e as notas do Release v1.0.0 permanecem intactos; as atualizações documentais posteriores são registradas no CHANGELOG e no histórico Git.

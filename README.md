@@ -58,8 +58,10 @@ Especialista B2B em Go-to-Market, Estruturação Comercial e Automação com IA
 
 Alex Almeida é autor das modificações e da estruturação desta versão. Os direitos e créditos dos componentes originais permanecem com seus respectivos titulares. A adaptação não implica vínculo oficial ou endosso da Studio Artemis.
 
-## Direitos de redistribuição
+## Autorização e direitos de redistribuição
 
-Não foi identificada licença explícita no repositório público de origem na verificação de 03/11/2026. Isso não constitui autorização para redistribuir o pacote. Consulte [ORIGEM-E-DIREITOS.md](ORIGEM-E-DIREITOS.md) e o [registro de proveniência](PROVENIENCIA.json).
+Alex Almeida confirmou em 03/11/2026 que o autor autorizou **uso, adaptação e redistribuição pública**. Uma captura de conversa apresentada documenta a anuência ao pedido de adaptação para GPT; o escopo de redistribuição foi confirmado adicionalmente por Alex Almeida. Consulte o [registro da autorização](AUTORIZACAO-DE-USO.md).
 
-O repositório deve permanecer privado. A publicação pública exige esclarecimento das licenças e restrições do conteúdo obtido no portal, revisão da atribuição e autorização expressa de Alex Almeida. Não foi adicionada licença sobre conteúdos de terceiros.
+Não foi identificada licença explícita na árvore pública de origem consultada. A autorização informada é específica e não foi convertida em uma licença aberta geral para terceiros. Os créditos originais foram mantidos. Consulte [ORIGEM-E-DIREITOS.md](ORIGEM-E-DIREITOS.md) e o [registro de proveniência da v1.0.0](PROVENIENCIA.json).
+
+O repositório permanece privado até um pedido expresso de Alex Almeida para alterar a visibilidade. Nenhuma licença sobre conteúdos de terceiros foi adicionada. A tag e o pacote da v1.0.0 preservam a situação documentada no lançamento; atualizações posteriores estão no histórico.
