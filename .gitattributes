@@ -1,0 +1,3 @@
+* -text
+*.md linguist-documentation=true
+*.py linguist-vendored=true
